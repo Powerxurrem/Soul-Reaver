@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a90c9f6d810f52f45bb71a7495787a4c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333782
+  packageName: 2D Necromancer (Animated)
+  packageVersion: 1.0
+  assetPath: Assets/ForgeReality/Animation/Player/BaseAttack.anim
+  uploadId: 790152

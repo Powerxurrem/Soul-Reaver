@@ -1,0 +1,85 @@
+Table of Contents
+
+Introduction
+
+Installation
+
+Setup Guide
+
+Inspector Parameters
+
+Example Use Cases
+
+Limitations
+
+Script Reference
+
+1. Introduction
+
+CloakBone2D is a Unity C# script designed to animate cloak or robe bones in 2D games.
+It simulates natural fabric movement both when the character is idle and when moving.
+
+Idle: the cloak gently sways as if moved by wind.
+
+Moving: the cloak bends backward with turbulence, simulating air resistance.
+
+This script provides a simple way to enhance character visuals without using physics.
+
+2. Installation
+
+Import the package into your Unity project.
+
+Locate the script in your project folder: Scripts/CloakBone2D.cs.
+
+Drag and drop the script onto your character GameObject.
+
+3. Setup Guide
+
+Select the GameObject with your character.
+
+Add the CloakBone2D component if not already present.
+
+In the Inspector, assign the Target Bone (Transform) that controls the cloak or robe.
+
+Adjust parameters (wind, movement, turbulence) to achieve the desired effect.
+
+Press Play and test both idle and moving states.
+
+4. Inspector Parameters
+
+Target Bone: The bone transform to animate.
+
+Wind Strength: Amplitude of idle wind sway (degrees).
+
+Wind Speed: Speed of oscillation when idle.
+
+Move Influence: Influence of character movement on cloak angle.
+
+Return Speed: Speed at which the cloak returns to its base rotation.
+
+Turbulence Strength: Additional sway strength while moving.
+
+Turbulence Speed: Frequency of turbulence oscillation.
+
+Movement Threshold: Minimum speed for the character to be considered moving.
+
+5. Example Use Cases
+
+RPG or fantasy characters wearing cloaks.
+
+Necromancer, wizard, or mage with a robe.
+
+Enemy bosses with capes to add dynamic visuals.
+
+Idle example: cloak sways slowly as the character stands still.
+Moving example: cloak bends backward with additional flutter.
+
+6. Limitations
+
+Designed for 2D characters (rotation only on Z-axis).
+
+Does not use Unity Physics2D, purely procedural.
+
+Not intended for 3D models.
+
+Attach this script to your character, assign a bone, and tune parameters for the desired effect.

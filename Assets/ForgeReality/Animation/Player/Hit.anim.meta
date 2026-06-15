@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04280c1f0cf724745b3365fc3eb057ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333782
+  packageName: 2D Necromancer (Animated)
+  packageVersion: 1.0
+  assetPath: Assets/ForgeReality/Animation/Player/Hit.anim
+  uploadId: 790152

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cccd19a326d34d84da76f9d18e454ba3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333782
+  packageName: 2D Necromancer (Animated)
+  packageVersion: 1.0
+  assetPath: Assets/ForgeReality/Animation/Player/Return.anim
+  uploadId: 790152

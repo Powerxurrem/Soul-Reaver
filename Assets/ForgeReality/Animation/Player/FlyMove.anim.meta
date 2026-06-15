@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9305819c1f262e4e8d1b9c54fa80375
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333782
+  packageName: 2D Necromancer (Animated)
+  packageVersion: 1.0
+  assetPath: Assets/ForgeReality/Animation/Player/FlyMove.anim
+  uploadId: 790152
